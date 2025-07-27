@@ -1,5 +1,4 @@
-## Hi there 👋
-# Olá, sou Miller! 👋
+# Olá mundo, sou Miller! 👋
 
 ---
 
