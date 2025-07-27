@@ -1,6 +1,11 @@
 # Olá mundo, sou Miller! 👋
 
 ---
+### Onde me Encontrar
+
+Ficarei feliz em conectar e conversar!
+
+[You tube ](https://www.youtube.com/@Miller.0fc)
 
 ### Sobre Mim
 
@@ -22,12 +27,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais estou familiariza
 
 ---
 
-### Onde me Encontrar
 
-Ficarei feliz em conectar e conversar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Seu link do LinkedIn]) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Seu email]) ---
 
 <br>
 
-<p align="center">Feito com ❤️ por Miller</p>
+<p align="center">"O homem está condenado a ser livre."</p>
